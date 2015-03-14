@@ -1,3 +1,4 @@
+Script handler ready. Waiting for a while to ensure all other mods are done messing with NEI.
 Starting NEI Filter scripting. This might take a moment to load all the modules...
 Engine: JAVASCRIPT
 Setting up Java Library...
@@ -39,6 +40,8 @@ Found creative tab: arboriculture
 Found creative tab: extraUtil
 Found creative tab: combat
 Found creative tab: extraUtil_FMP
+Found creative tab: forbidden
+Found creative tab: mobcrystal
 Found creative tab: forestry
 Found creative tab: lepidopterology
 Found creative tab: Genetics
@@ -58,6 +61,7 @@ Found creative tab: tabOpenBlocks
 Found creative tab: tabOpenPeripheralAddons
 Found creative tab: TConstructBlocks
 Found creative tab: core
+Found creative tab: expansion
 Found creative tab: exploration
 Found creative tab: ill
 Found creative tab: int
@@ -78,13 +82,17 @@ Found creative tab: TConstructMaterials
 Found creative tab: TConstructEquipables
 Found creative tab: TMechworks
 Found creative tab: thaumcraft
+Found creative tab: thaumicExploration
 Found creative tab: ThaumicTinkerer
 Found creative tab: brewing
+Found creative tab: thermaldynamics.creativeTab
 Found creative tab: thermalexpansion.creativeTabBlocks
 Found creative tab: thermalexpansion.creativeTabItems
 Found creative tab: thermalexpansion.creativeTabTools
 Found creative tab: thermalexpansion.creativeTabFlorbs
 Found creative tab: thermalfoundation.creativeTab
+Found creative tab: thermalfoundation.creativeTabArmor
+Found creative tab: thermalfoundation.creativeTabTools
 Found creative tab: twilightForest
 Found creative tab: aobd
 Found creative tab: appliedenergistics2
@@ -95,7 +103,6 @@ Found creative tab: tabStoneChiselBlocks
 Found creative tab: tabOtherChiselBlocks
 Found creative tab: tabChisel
 Found creative tab: tabMetalChiselBlocks
-Found creative tab: tabdooglamooarchaeology
 Found creative tab: funkylocomotion
 Found creative tab: bdew.gendustry
 Found creative tab: bdew.samples
@@ -104,10 +111,11 @@ Found creative tab: tabHarvestCraft2
 Found creative tab: tabHarvestCraft3
 Found creative tab: tabHarvestCraft
 Found creative tab: headcrumbs
+Found creative tab: props.main
+Found creative tab: search
 Found creative tab: RfTools
 Found creative tab: RfToolsDimlets
 Found creative tab: runicdungeons
-Found creative tab: search
 Found creative tab: tabSimplyJetpacks
 Found creative tab: tabSpringboards
 Found creative tab: ThaumicEnergistics
@@ -140,17 +148,17 @@ Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
 Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
 Loading: Mekanism.js
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: tile.Decoration.BrickFancy
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Decoration.BrickFancy
+getRandomMaterial called. Returned: tile.Darkleaves3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, tile.Darkleaves3
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: tile.Decoration.BrickFancy_12
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Decoration.BrickFancy_12
+getRandomMaterial called. Returned: tile.Darkleaves2
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, tile.Darkleaves2
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 3280
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1281
+getFacadesSize called. Returned: 3041
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 2749
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor.
@@ -270,8 +278,8 @@ Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 2082
-override called. Params: appliedenergistics2, item.ItemFacade, 1240
+getNumberOfTypes called. Returned: 2091
+override called. Params: appliedenergistics2, item.ItemFacade, 669
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
