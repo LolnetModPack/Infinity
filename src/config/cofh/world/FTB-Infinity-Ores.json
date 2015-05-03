@@ -161,7 +161,7 @@
             1
         ]
     },
-"Amethyst2": {
+"Amethyst": {
         "template": "uniform",
         "block": "BiomesOPlenty:gemOre",
         "material": "minecraft:end_stone",
