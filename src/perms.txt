@@ -1,6 +1,5 @@
 Permission categories and full licenses for mods marked spreadsheet are available here: http://1drv.ms/1rsQNOJ
 For any problems, please contact Watchful11 on the FTB forums.
-This is a private pack
 
 (Open:Spreadsheet) Forge/FML by LexManos, cpw can be found at http://www.minecraftforge.net/.
 (Open:Spreadsheet) Advanced Solar Panels by SeNtiMeL can be found at http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291.
@@ -42,6 +41,7 @@ This is a private pack
 (Open:Spreadsheet) Funky Locomotion by RWTema can be found at http://www.curse.com/mc-mods/minecraft/224190-funky-locomotion.
 (Open:Spreadsheet) Gendustry by bdew can be found at http://bdew.net/gendustry/.
 (Open:Spreadsheet) Gravitation Suite by SeNtiMeL can be found at http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915.
+(Unknown:Custom) Guide-API by TehNut can be found at http://www.curse.com/mc-mods/minecraft/228832-guide-api. The license is, http://www.curse.com/mc-mods/minecraft/228832-guide-api. Permission has been obtained from the author, http://www.curse.com/mc-mods/minecraft/228832-guide-api.
 (Open:Spreadsheet) HarvestCraft by MatrexsVigil, Rhodox can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-july-16th-all-mods-updated-to-1-7-10#entry29809669.
 (Open:Spreadsheet) Hat Stand by iChun can be found at http://ichun.us/mods/hats/hat-stand/.
 (Open:Spreadsheet) Hats by iChun can be found at http://ichun.us/mods/hats/.
