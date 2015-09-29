@@ -226,10 +226,24 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "FTB Infinity 1.10.1",
+			"text" : "FTB Infinity 1.11.2",
             "posX" : 5,
             "posY" : -45,
             "color" : -1,
+            "alignment" : "bottom_left"
+		},
+		"newsLine1":{
+			"text" : "Infinity Hard-Mode",
+            "posX" : 5,
+            "posY" : -75,
+			"color" : 16729156,
+            "alignment" : "bottom_left"
+		},
+		"newsLine2":{
+			"text" : "   Coming Soon!",
+            "posX" : 5,
+            "posY" : -65,
+            "color" : 16729156,
             "alignment" : "bottom_left"
 		}
     },
