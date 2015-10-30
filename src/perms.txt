@@ -7,8 +7,6 @@ This is a public pack
 (Open:Custom) AgriCraft by InfinityRaider can be found at http://minecraft.curseforge.com/mc-mods/225635-agricraft. The license is, , and can be found http://minecraft.curseforge.com/mc-mods/225635-agricraft/license.
 (Open:Custom) AOBD 2 by ganymedes01 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293528-aobd-2-process-all-the-ores-v2-2-3. The license is, .
 (Open:Custom) Applied Energistics by AlgorithmX2 can be found at http://ae-mod.info/. The license is, , and can be found http://ae-mod.info/Frequently-Asked-Questions/.
-(Open:Custom) Aroma1997Core by Aroma1997 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod. The license is, .
-(Open:Custom) AromaBackup by Aroma1997 can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod. The license is, .
 (Open:Custom) Avaritia by SpitefulFox, TTFTCUTS can be found at http://minecraft.curseforge.com/mc-mods/233785-avaritia. The license is, .
 (Open:Custom) Baubles by Azanor can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-5-updated-20-8-2014. The license is, .
 (Open:Custom) Bdlib by bdew can be found at http://www.curse.com/mc-mods/minecraft/bdlib. The license is, .
@@ -47,6 +45,9 @@ This is a public pack
 (Open:Custom) Forge Multipart by Chickenbones can be found at http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/. The license is, .
 (Open:Custom) Forge Relocation - FMP Plugin by MrTJP can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-7-0pre3-88-06-29. The license is, .
 (Open:Custom) ForgeRelocation by MrTJP can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-7-0pre3-88-06-29. The license is, .
+(Open:Custom) FTBLib by jaredlll08, LatvianModder can be found at http://minecraft.curseforge.com/projects/ftblib. The license is, http://minecraft.curseforge.com/projects/ftblib.
+(Open:Custom) FTBTweaks by jaredlll08 can be found at http://minecraft.curseforge.com/projects/ftb-tweaks. The license is, http://minecraft.curseforge.com/projects/ftb-tweaks.
+(Open:Custom) FTBUtilities by LatvianModder can be found at http://minecraft.curseforge.com/projects/ftb-utilities. The license is, http://minecraft.curseforge.com/projects/ftb-utilities.
 (Open:Custom) Funky Locomotion by RWTema can be found at http://www.curse.com/mc-mods/minecraft/224190-funky-locomotion. The license is, , and can be found https://github.com/rwtema/FunkyLocomotion/blob/master/LICENSE-fml.txt.
 (Open:Custom) Gendustry by bdew can be found at http://bdew.net/gendustry/. The license is, .
 (Open:Custom) Gravitation Suite by SeNtiMeL can be found at http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915. The license is, .
@@ -58,7 +59,6 @@ This is a public pack
 (Open:Custom) iChunUtil by iChun can be found at http://ichun.us/mods/ichun-util/. The license is, .
 (Open:Custom) Immersive Engineering by BluSunrize can be found at http://minecraft.curseforge.com/mc-mods/231951-immersive-engineering. The license is, .
 (Open:Custom) IndustrialCraft 2 by IC2 Dev Team can be found at http://www.industrial-craft.net/. The license is, , and can be found http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994.
-(Open:Custom) InfiniBows by Myrathi can be found at http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/. The license is, .
 (Open:Custom) INpure Core by denoflionsx can be found at http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods. The license is, .
 (Open:Custom) Inventory Tweaks by Kobata can be found at http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/. The license is, .
 (Open:Custom) IronChests by cpw, progwml6 can be found at http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/. The license is, .
