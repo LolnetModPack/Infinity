@@ -1,6 +1,6 @@
 §2§lYour First Tools
 §0At first you punch trees make a crafting table, and make those first wooden tools.  
-A couple of catches however, first each log will only make 2 planks! And that first wooden pickaxe will only mine 5 blocks!
+A couple of catches however, first each log will only make 2 planks! And that first wooden pickaxe will only mine 6 blocks!
 
 [woodenpick]
 

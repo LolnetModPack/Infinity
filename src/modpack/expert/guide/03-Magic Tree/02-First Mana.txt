@@ -34,7 +34,7 @@ Once you have that initial setup, then we would want to increase that mana gener
 
 Then you can start producing your mana items (pearls/steel/glass) which you will need for many other magic recipes.
 
-Note: Manasteel can be made from either steel or iron, however iron is double the mana cost
+Note: Manasteel can be made from either steel or iron, however iron is double the mana cost:
 
 [manasteel1]
 [manasteel2]

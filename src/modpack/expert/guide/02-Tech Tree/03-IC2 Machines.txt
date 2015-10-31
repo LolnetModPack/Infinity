@@ -15,9 +15,9 @@ And finally you can make the former itself:
 
 [metalformer]
 
-This will require some form of IC2 power, from a IC2 generator or converting your RF power generation to EU with Immersive Engineering cables
+This will require some form of IC2 power, from a IC2 generator or converting your RF power generation to EU with Immersive Engineering cables.
 
-There are 3 modes within the machine itself
+There are 3 modes within the machine itself.
 
 Cutting for wires:
 

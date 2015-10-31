@@ -22,7 +22,7 @@ Then the anointing paste so you can change a cauldron into the witches cauldron:
 
 [anointing]
 
-Now there is a trick: if you don't have flint and steel, how can you light the fire under the cauldron?  Nitor won't work, so... well, remember the fire charge made in Thaumcraft?  this is the perfect time for that!  You can use a block of coal, or you can use the smeltery to create netherrack.
+Now there is a trick: if you don't have flint and steel, how can you light the fire under the cauldron?  Nitor won't work, so... well, remember the fire charge made in Thaumcraft?  This is the perfect time for that!  You can use a block of coal, or you can use the smeltery to create netherrack.
 
 [netherrack]
 

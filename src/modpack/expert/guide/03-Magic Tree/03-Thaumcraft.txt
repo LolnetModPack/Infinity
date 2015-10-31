@@ -24,14 +24,11 @@ Once that is filled you will want to get some basics that will be needed in the 
 
 [arcanestone]
 
-Also may be a good idea to get a few items needed to get started in witchery:
+Also may be a good idea to get a few items needed to get started in witchery.
 
-3x Alchemical Furnace, a fire crystal cluster, and a few fire charges
+3x Alchemical Furnace, a fire crystal cluster, and a few fire charges:
 
 [afurnace]
 [firecharge]
 
-You can grab yourself a few goodies from Thaumcraft if you want at this point, but now its time to get our Witchery in order.
-
-
-
+You can grab yourself a few goodies from Thaumcraft if you want at this point, but now it's time to get our Witchery in order.

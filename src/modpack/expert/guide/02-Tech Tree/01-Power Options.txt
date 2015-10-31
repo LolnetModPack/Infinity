@@ -14,11 +14,11 @@ Peat-fired engines produce good amounts of RF at a decent rate but require a pea
 
 [peat]
 
-Note: All gears will require the smeltery cast to be made, all other recipies have been disabled
+Note: All gears will require the smeltery cast to be made. All other recipes have been disabled.
 
 [gears]
 
 Power cable options early on are Buildcraft kinesis pipes and Immersive Engineering cables and connectors. Buildcraft pipes have the benefit of being cheap and effective, but you need the redstone engine to use them. The Immersive Engineering connectors and cables are relatively inexpensive and have the benefit of being able to transfer both RF and EU.
 
-Note: All lava power generation has been disabled in Expert Mode
+Note: All lava power generation has been disabled in Expert Mode.
 

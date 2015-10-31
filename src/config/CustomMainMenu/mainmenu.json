@@ -259,7 +259,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Infinity Evolved 2.0.0",
+			"text" : "Infinity Evolved 2.0.2",
             "posX" : 3,
             "posY" : -25,
 			"fontSize" : .6,

@@ -7,7 +7,7 @@ For the water wheel you will need a good amount of treated wood, and some IC2 ma
 
 You can connect the water wheels to a kinetic dynamo to generate power.
 
-Let take a look at the changes to the recipes in Evolved
+Let take a look at the changes to the recipes in Evolved.
 
 Water wheel:
 
