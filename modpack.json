@@ -2,13 +2,18 @@
   "name": "Infinity Package",
   "title": "Infinity",
   "gameVersion": "1.7.10",
-  "launch": {
-    "flags": []
+  "features" : [ ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt",
+      "server.dat"
+    ],
+    "exclude" : [ ]
   },
-  "userFiles": {
-    "include": [
-      "servers.dat",
-      "options.txt"
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
     ]
   }
 }
